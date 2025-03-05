@@ -1,5 +1,4 @@
 import CountdownTimer from "@/components/CountdownTimer";
-import styles from "./page.module.css";
 
 const countdownDate = new Date('2025-03-07T17:00:00');
 
