@@ -6,4 +6,6 @@
 ## Vercelリンク
 このウェブアプリはVercelにデプロイしており,[こちら](https://gokakuhappyo-tokyokagaku.vercel.app/)から確認できます.
 ## 修正前レポジトリについて
-このレポジトリは前身の[gokaku_countdown](https://github.com/yunamaki3/gokaku_countdown)の修正版です.前身のレポジトリでは協定標準時と日本標準時に関する問題が発生していました（詳細は前身のレポジトリissue[#1](https://github.com/yunamaki3/gokaku_countdown/issues/1)）.なお,前身のレポジトリはこのレポジトリへの移行時にアーカイブ化しました。
+このレポジトリは前身の[gokaku_countdown](https://github.com/yunamaki3/gokaku_countdown)の修正版です.前身のレポジトリでは協定標準時と日本標準時に関する問題が発生していました（詳細は前身のレポジトリissues[#1](https://github.com/yunamaki3/gokaku_countdown/issues/1)）.なお,前身のレポジトリはこのレポジトリへの移行時にアーカイブ化しました.
+## 謝辞
+このウェブアプリ開発に際して,バグの発見及びissuesの投稿に協力してくれた @YujinFuruta に感謝します.
